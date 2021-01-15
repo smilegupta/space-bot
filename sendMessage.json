@@ -1,0 +1,5 @@
+{
+  "stackTrace": "BadRequestException: Database error code: 1213. Message: Deadlock found when trying to get lock; try restarting transaction. For more details - https://console.aws.amazon.com",
+  "moduleName": "Cognito Triggers",
+  "apiPath": "/postAuthentication"
+}
