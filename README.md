@@ -37,8 +37,18 @@ AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
  
  - Using the aws-profile option
  ``` serverless deploy --aws-profile devProfile ```
+ 
+ ### How to get started
+ 
+ ###### Initial Requirenments 
+- Install Node.js 6.x or later on your local machine
+- Install the Serverless Framework open-source CLI version 1.47.0 or later
 
-
+###### Creating and deploying a serverless Service
+1) Opening the folder of your service: ```$ cd your-service-name```
+2) Setting up an endpoint: You need to define a endpoint in your ```serverless.yml``` that will trigger your serverless function.
+3) Deploying the Service: ```serverless deploy -v```
+4) Testing your Service: ```serverless invoke local -f space-bot```
 
 
 
