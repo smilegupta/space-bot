@@ -26,6 +26,17 @@ You can build a serverless web application by using several AWS services togethe
 
 ``` serverless```
 
+### The Serverless Framework needs access to your cloud provider account so that it can create and manage resources on your behalf.
+
+###### Once your have made your AWS account, then You can configure the Serverless Framework to use your AWS API Key & Secret in two ways:
+- Setup with the aws-cli
+``` $ aws configure
+AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
+AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+Default region name [None]: us-west-2
+Default output format [None]: ENTER ```
+
+
 
 
 
