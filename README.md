@@ -18,7 +18,9 @@ Building a serverless application allows you to focus on your application code i
 You can build a serverless web application by using several AWS services together. Each service is fully managed and does not require you to provision or manage servers. You only need to configure them together and upload your application code to AWS Lambda, a serverless compute service.
 
 ### Installing Serverless
-###### ```javascript npm install -g serverless```
+###### Open up a terminal and type npm install -g serverless to install Serverless.
+
+ ```npm install -g serverless```
 
 
 
