@@ -21,6 +21,10 @@ You can build a serverless web application by using several AWS services togethe
 ###### Open up a terminal and type npm install -g serverless to install Serverless.
 
  ```npm install -g serverless```
+ 
+ ###### Once the installation process is done you can verify that Serverless is installed successfully by running the following command in your terminal:
+
+``` serverless```
 
 
 
