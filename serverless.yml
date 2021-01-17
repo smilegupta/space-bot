@@ -13,4 +13,4 @@ functions:
     space-bot:
         handler: index.handler
         environment:
-            authorizationToken: "Bearer eyJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJkM2djWjBqTVBxWCIsImF1ZCI6ImNpcmNsZXQtd2ViLXVpIiwib3JnRG9tYWluIjoia29uZmh1YiIsIm5hbWUiOiJTbWlsZSIsImlzcyI6Imh0dHBzOlwvXC9qZXRicmFpbnMuc3BhY2UiLCJwZXJtX3Rva2VuIjoiMmt3SU9tM2RUMlVxIiwicHJpbmNpcGFsX3R5cGUiOiJVU0VSIiwiaWF0IjoxNjEwNjQ1ODAwfQ.JepdF1uIEAK9jrqpu4pKl-53WplVLKHEJIpe4wiOo9AeL5XumwYGULgUCCR5I2m8bPhvhKMtyH_A4eqt5VuMeDI0gp_jIY-9SpkONtYdPJV1V28I3X2LrpqC_N8lHDuCyYizphI9SWC_ITq5sZ0CiPzA97FGs5C6gaEBwSW2kns"
+            authorizationToken: "Bearer <Token>"
